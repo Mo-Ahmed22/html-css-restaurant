@@ -1,0 +1,250 @@
+
+body {
+    margin: 0;
+    font-family: serif;
+}
+
+
+header {
+    position: fixed;/* ده بيخلي الهيدر ثابت*/
+    top: 0;
+    width: 95%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    box-shadow: 0 2px 5px rgb(0,0,0,0.1);
+    z-index: 1000;
+}
+
+.Address {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+nav a {
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.img1 {
+    width: 100%;
+    height: auto;
+}
+
+.img2 {
+    max-width: 400px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.form1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 150px;
+    gap: 40px;
+}
+
+.content11 {
+    max-width: 500px; 
+    font-family: 'Georygie', serif;
+    color: #333;
+    padding-left: 250px;
+    
+}
+.content11 h2 {
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+.content11 h5 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.content11 p {
+    font-weight: bold;
+}
+
+
+.content12 {
+    padding-top: 50px;
+    max-width: 500px;
+    font-family: 'Georygie', serif;
+    color: #333;
+    padding-left: 250px;
+
+}
+
+.content12 span {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+}
+
+
+.form2 {
+ 
+     align-items: flex-start; 
+     justify-content: center;  
+     padding: 120px;
+     gap: 40px;
+     padding-bottom: 150px;
+}
+
+.content21 h1 {
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+.content21 h3 {
+    font-size: large;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+.content21 p {
+    color:#aeaeae;
+     letter-spacing: 2px;
+}
+
+.content21 {
+    padding-bottom: 20px;
+}
+
+.content22 {
+    padding-bottom: 20px;
+}
+
+.content22 h2 {
+     font-size: large;
+     font-weight: 400;
+     letter-spacing: 4px;
+}
+
+.content22 p {
+     color:#aeaeae;
+      letter-spacing: 2px;
+}
+
+.content23 {
+    padding-bottom: 20px;
+}
+
+.content23 h2 {
+     font-size: large;
+     font-weight: 400;
+     letter-spacing: 4px;
+}
+
+.content23 p {
+        color:#aeaeae;
+      letter-spacing: 2px;
+}
+
+
+.content24 {
+    padding-bottom: 20px;
+}
+
+.content24 h2 {
+     font-size: large;
+     font-weight: 400;
+     letter-spacing: 4px;
+
+}
+
+.content24 p {
+      color:#aeaeae;
+      letter-spacing: 2px;
+}
+
+.content25 {
+    padding-bottom: 20px;
+}
+
+.content25 h2 {
+     font-size: large;
+     font-weight: 400;
+     letter-spacing: 4px;
+}
+
+.content25 p {
+      color:#aeaeae;
+      letter-spacing: 2px;
+}
+
+.img3 {
+    border-radius: 8px;
+    float: right; 
+    padding-right: 50px; 
+}
+
+.text {
+     padding-top: 50px;
+    max-width: 500px;
+    font-family: 'Georygie', serif;
+    color: #333;
+    padding-left: 100px;
+
+}
+
+
+.form3 {
+      align-items: flex-start;  
+      justify-content: center;  
+      padding: 120px; 
+      gap: 40px; 
+      padding-bottom: 150px; 
+      margin-left: 100px; 
+}
+
+.form3 h2 {
+    padding-bottom: 25px;
+    font-weight: 200;
+    font-size: xx-large;
+}
+
+.form3 .text1 {
+    margin-bottom: 30px;
+}
+
+.form3 .text2 {
+    margin-bottom: 20px;
+    color: rgb(0, 128, 128);
+}
+
+.form3 .input1 {
+     margin-top: 40px; 
+     padding-bottom: 30px;
+}
+
+.form3 .input2 { 
+     padding-bottom: 30px;
+}
+
+.form3 .input3 {
+     padding-bottom: 30px;
+}
+
+.form3 .input4 {
+     padding-bottom: 30px;
+}
+
+.form3 .input5 {
+     padding-bottom: 30px;
+     border: none;
+     
+}
+
+.form4{
+    background-color: #eee;
+    padding: 50px;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
